@@ -1,1 +1,1 @@
-https://odavid66.github.io/CV_frontend.sh/
+https://roadmap.sh/projects/single-page-cv
